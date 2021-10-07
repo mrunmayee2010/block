@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+    margin: 0;
+}
+#img1{
+    margin-top: 200px;
+    margin-bottom: 50px;
+     border-radius: 50%;
+    width: 175px;
+}
+#home1{
+ position: fixed;
+    height: 800px;
+    
+    top: 0;
+  bottom:0;  
+    left: 0;
+    right: 0;
+    
+    background: linear-gradient(#42e0f5 0%, #f542d1 100%)
+}
+h2{
+    margin-bottom:  50px;
+}
